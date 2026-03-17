@@ -1,6 +1,6 @@
 # Huffman-Coding
-## DEVELOPED BY : ABISHEIK RAJ J
-## REG NO : 212224230006
+## DEVELOPED BY :NITHISH KUMAR
+## REG NO : 212224230190
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
